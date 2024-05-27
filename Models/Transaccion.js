@@ -1,0 +1,6 @@
+
+class Transaccion {
+    constructor() {
+        
+    }
+}
